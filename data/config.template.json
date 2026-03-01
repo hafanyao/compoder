@@ -8,34 +8,34 @@
           "title": "Claude 3.7 Sonnet (OpenRouter)",
           "baseURL": "https://openrouter.ai/api/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         },
         {
           "model": "anthropic/claude-3.5-sonnet",
           "title": "Claude 3.5 Sonnet (OpenRouter)",
           "baseURL": "https://openrouter.ai/api/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         },
         {
           "model": "openai/gpt-4o",
           "title": "GPT-4o (OpenRouter)",
           "baseURL": "https://openrouter.ai/api/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         },
         {
           "model": "gpt-4o",
           "title": "GPT-4o (302)",
           "baseURL": "https://api.302.ai/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         },
         {
           "model": "kimi-k2-0711-preview",
           "title": "Kimi K2-0711-Preview (Moonshot)",
           "baseURL": "https://api.moonshot.cn/v1",
-          "apiKey": "sk-****",
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc",
           "features": ["vision"]
         }
       ]
@@ -48,14 +48,14 @@
           "title": "Claude 3.7 Sonnet (302)",
           "baseURL": "https://api.302.ai/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         },
         {
           "model": "claude-3-5-sonnet-latest",
           "title": "Claude 3.5 Sonnet (302)",
           "baseURL": "https://api.302.ai/v1",
           "features": ["vision"],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "title": "DeepSeek-V3 Chat (DeepSeek)",
           "baseURL": "https://api.deepseek.com/v1",
           "features": [],
-          "apiKey": "sk-****"
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "title": "Kimi K2",
           "baseURL": "https://openrouter.ai/api/v1",
           "features": ["vision"],
-          "apiKey": "sk-****",
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc",
           "extraBody": {
             "provider": {
               "only": ["Together"]
@@ -103,7 +103,7 @@
           "title": "Claude 4 Sonnet",
           "baseURL": "https://openrouter.ai/api/v1",
           "features": ["vision"],
-          "apiKey": "sk-****",
+          "apiKey": "sk-DvegI0WNxMmkpBVpb6UXTn0DtA0OMbk1TRbehAbl7tg64qmc",
           "extraBody": {
             "provider": {
               "only": ["Anthropic"]
